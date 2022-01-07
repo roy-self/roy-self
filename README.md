@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @roy-self(this is just such a bad name)
-- 👀 I’m interested in well computer science
-- 🌱 I’m currently learning IDK
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me don't
-
-I will probably do nothing for years and years, but that is fine.
+- 👀 I’m interested in mainly c++, but also starting to learn new languages, and I also have a history with python.
+- 🌱 I’m currently learning java
+- 📫 How to reach me - don't
